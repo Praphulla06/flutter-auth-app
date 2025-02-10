@@ -78,9 +78,11 @@ flutter run
 ---
 
 ## 📷 Screenshots
-![LogIn Page Screenshot](assets/images/login_page.jpeg)
-![Register Page Screenshot](assets/images/register_page.jpeg)
+<!-- ![LogIn Page Screenshot](assets/images/login_page.jpeg)
+![Register Page Screenshot](assets/images/register_page.jpeg) -->
 
+<img src="assets/images/login_page.jpeg" width="300">
+<img src="assets/images/register_page.jpeg" width="300">
 
 ---
 
