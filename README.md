@@ -86,11 +86,4 @@ flutter run
 
 ---
 
-## 📌 Contribution
-Feel free to fork, improve, and make a pull request! 🚀  
-
----
-
-## 📜 License
-This project is **MIT Licensed**.
 
