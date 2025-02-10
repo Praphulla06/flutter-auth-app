@@ -78,7 +78,9 @@ flutter run
 ---
 
 ## 📷 Screenshots
-(Add screenshots of your app here)
+![Log In Page Screenshot](assets/images/login_page.jpeg)
+![Register Page Screenshot](assets/images/register_page.jpeg)
+
 
 ---
 
